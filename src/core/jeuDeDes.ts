@@ -71,7 +71,7 @@ export class JeuDeDes {
         return JSON.stringify(resultat);
     }
 
-    public redemarrerJeu(): string {
+    redemarrerJeu() {
         this._joueurs.clear();
         const resultat = {
             message: "L'application a été redémarrer"

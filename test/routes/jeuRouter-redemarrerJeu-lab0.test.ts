@@ -30,4 +30,10 @@ describe('GET /api/v1/jeu/redemarrerJeu', () => {
     expect(joueursArray.length).toBe(0);
   });
 
+  it('devrait retourner 404 quand on essaie de jouer après redemarrerJeu', async () => {
+    // Tenter de jouer avec un joueur qui n'existe plus après redemarrage
+    const response = await request.get('/api/v1/jeu/jouer/' + testNom1);
+    expect(response.status).toBe(404);
+  });
+
 });
