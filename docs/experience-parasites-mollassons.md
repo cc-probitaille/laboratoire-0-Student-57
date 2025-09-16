@@ -13,4 +13,10 @@ Plus tard dans le semestre, **si votre équipe porte un manque de performance à
 
 Mettez votre réponse (environ 300 mots) ci-dessous:
 
----
+La session passée, été 2025, j'étais dans un groupe dans un cours de LOG pour faire les laboratoires. J'ai été confronté à un parasite mais aussi à une sorte de coéquipier qui n'a pas été mentionné dans le texte, quelqu'un de très désagréable en équipe. Quelqu'un qui critiquait le travail des autres, bien que ce soit bien fait, juste parce qu'il pensait avoir une meilleure approche que tout le monde, sur tout. Ce fut très désagréable de travailler avec cette personne, et ça ne donnait plus envie de communiquer avec lui car il avait une très mauvaise énergie. C'était donc nuisible à une bonne communication au sein de l'équipe.
+
+Il y avait également un parasite dans l'équipe, tel que mentionné dans le texte. Quelqu'un qui s'est joint au cours-groupe à la dernière minute, qui nous a envoyé un courriel pour nous demander de rejoindre notre équipe car toutes les autres étaient pleins. Cette personne ne répondait pas aux messages, ou sinon répondait avec plusieurs jours de délais, n'était pas aux rencontres en TP pour présenter aux chargés de TP et être évalué. Et il n'effectuait pas les tâches assignées dans le discord. Nous devions se séparer les tâches qu'il aurait été supposer compléter.
+
+Nous n'avons pas eu l'approche suggéré dans le texte, qui est d'être ferme avec cette personne et d'aller voir le professeur pour lui faire part du problème rapidement. À la place, nous l'avons permis indirectement d'abuser de l'équipe de ne pas contribuer équitablement au travail. Il a évidemment reçu la même note que tout le monde, en ayant mis le dixième des efforts de ses coéquipiers.
+
+Après avoir lu le texte, je prévois être plus réactif dans les prochains travaux d'équipe et de prendre action si un coéquipier tente d'abuser de l'équipe. Une personne qui ne contribue pas ne devrait pas se voir attribuer la même note que les personnes qui contribuent pleinement.
