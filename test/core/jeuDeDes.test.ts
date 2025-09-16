@@ -31,4 +31,20 @@ describe('JeuDeDesTest', () => {
     expect(resultats.has(19)).toBeFalsy();
   })
 
+  it('devrait redémarrer le jeu et supprimer tous les joueurs', () => {
+    jdd.demarrerJeu('TestJoueur1');
+    jdd.demarrerJeu('TestJoueur2');
+    
+    const joueursAvant = JSON.parse(jdd.joueurs);
+    expect(joueursAvant.length).toBe(2);
+    
+    const resultat = jdd.redemarrerJeu();
+    
+    const joueursApres = JSON.parse(jdd.joueurs);
+    expect(joueursApres.length).toBe(0);
+    
+    const resultatObj = JSON.parse(resultat);
+    expect(resultatObj.message).toInclude("redémarrer");
+  })
+
 });
